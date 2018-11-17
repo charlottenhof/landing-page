@@ -57,6 +57,7 @@ ul {
 #banner {
   background-image:url("https://images.unsplash.com/photo-1496737018672-b1a6be2e949c");
   height: 80vh;
+  width:100%;
   background-size: cover !important;
   display: flex;
   align-items: center;
@@ -150,7 +151,7 @@ ul {
   align-items: center;
   justify-content: center;
   height: 300px;
-  width: 600px;
+  width: 100% !important;
   background-size: cover;
   font-size: 26px;
   color: white;
